@@ -25,4 +25,4 @@ Es un proyecto desarrollado con **Next.js** y **Tailwind CSS** que ofrece una in
 
 El proyecto está preparado para su despliegue y puedes acceder a la versión en producción a través del servicio de páginas estáticas en el siguiente enlace:
 
-👉 **[https://tu-usuario.github.io](https://tu-usuario.github.io)** *(Nota: Recuerda sustituir "tu-usuario" por tu nombre de perfil real de GitHub en la configuración de despliegue de tu repositorio).*
+👉 **[https://tu-usuario.github.io](https://codeNode-Semana10.github.io)** 
