@@ -14,7 +14,7 @@ export default function FloatingBackground() {
         y: Math.random() * 92,        // posición vertical en %
         fontSize: Math.random() * 1.8 + 0.7, // tamaño 
         rotation: Math.random() * 70 - 35,   // rotación 
-        factor: Math.random() * 0.025 + 0.008, // profundidad del parallax
+        factor: Math.random() * 0.05 + 0.02, // profundidad del parallax
       }))
     );
   }, []);
